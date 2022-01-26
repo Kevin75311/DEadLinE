@@ -2,7 +2,8 @@
 ## Introduction
 
 This is a final project of computer programming.
-This is a shooting, 1v1 game for all students who like to chasing deadline.
+
+DEadLinE is a shooting, 1v1 game for all EE students who like to chasing deadline.
 
 ---
 
